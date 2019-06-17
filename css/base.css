@@ -3,11 +3,11 @@
 
 .banner{
 	height:680px;
-	background: url(../images/banner1.png) no-repeat center;
+	background: url(https://i.loli.net/2019/06/17/5d07399b0d2e139008.png) no-repeat center;
 }
 .banner1{
 	height:680px;
-	background: url(../images/banner2.png) no-repeat center;
+	background: url(https://i.loli.net/2019/06/17/5d07399af2c7471565.png) no-repeat center;
 }
 /*公共头部开始*/
 .header{
@@ -216,16 +216,16 @@
 	margin:0 auto;
 }
 .panel .icon01{
-	background: url(../images/icon01.png) no-repeat center;
+	background: url(https://i.loli.net/2019/06/17/5d0739980235550536.png) no-repeat center;
 }
 .panel .icon02{
-	background: url(../images/icon02.png) no-repeat center;
+	background: url(https://i.loli.net/2019/06/17/5d073998af26b63751.png) no-repeat center;
 }
 .panel .icon03{
-	background: url(../images/icon03.png) no-repeat center;
+	background: url(https://i.loli.net/2019/06/17/5d073998af27245065.png) no-repeat center;
 }
 .panel .icon04{
-	background: url(../images/icon04.png) no-repeat center;
+	background: url(https://i.loli.net/2019/06/17/5d073998c123785608.png) no-repeat center;
 }
 
 .infoSec-title{
@@ -287,7 +287,7 @@
 .about-us-bg{
 	height:436px;
 	/*background: #4e79c1;*/
-	background: url(../images/banner2.png) no-repeat center;
+	background: url(https://i.loli.net/2019/06/17/5d07399af2c7471565.png) no-repeat center;
 }
 .about-us-bg .header .list .item a:hover{
 	border-color:red;
